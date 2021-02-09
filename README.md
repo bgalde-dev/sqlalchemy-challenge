@@ -15,5 +15,5 @@
 ### The following files were created by the Jupyter Notebook
 
 * The [precipitation over a year](output/hawaii_precipitation.png)
-* The [Tempratures for each month over a year](output/hawaii_temp.png)
+* The [Temperatures for each month over a year](output/hawaii_temp.png)
 
